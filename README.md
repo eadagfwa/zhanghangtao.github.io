@@ -1,13 +1,5 @@
-# music-website
+# 个人网站
 
-🎵 音乐网站(HTML + CSS + jQuery)
+(HTML + CSS + jQuery)
 
-[Live Demo](http://music.demo.hapboy.com)
-
-## Preview
-
-![](./preview.png)
-
-## License
-
-[MIT](https://opensource.org/licenses/MIT)
+https://zhanghangtao.github.io/
